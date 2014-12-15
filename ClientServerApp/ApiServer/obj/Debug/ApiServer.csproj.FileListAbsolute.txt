@@ -1,0 +1,245 @@
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\DemoApiServer.dll.config
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\DemoApiServer.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\DemoApiServer.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Antlr3.Runtime.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Compiler.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\DemoEntities.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\EntityFramework.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Data.Edm.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Data.OData.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Newtonsoft.Json.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Owin.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Net.Http.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Net.Http.WebRequest.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Spatial.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Helpers.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.OData.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.Tracing.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Mvc.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Optimization.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Providers.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Razor.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\TestProvider.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\WebGrease.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\nunit.core.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\nunit.core.interfaces.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Compiler.Factory.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\DemoEntities.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\TestProvider.Factory.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Mvc.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\EntityFramework.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Newtonsoft.Json.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Helpers.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Razor.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.Tracing.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Web.Http.OData.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Data.Edm.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\Microsoft.Data.OData.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\System.Spatial.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\de\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\es\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\fr\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\it\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ja\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ko\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\ru\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\obj\Debug\ApiServer.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\obj\Debug\DemoApiServer.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\DemoApiServer\obj\Debug\DemoApiServer.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\DemoApiServer.dll.config
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\DemoApiServer.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\DemoApiServer.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Antlr3.Runtime.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Compiler.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\DemoEntities.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\EntityFramework.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Data.Edm.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Data.OData.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Newtonsoft.Json.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Owin.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Net.Http.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Net.Http.WebRequest.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Spatial.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Helpers.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.OData.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.Tracing.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Mvc.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Optimization.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Providers.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Razor.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\TestProvider.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\WebGrease.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\nunit.core.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\nunit.core.interfaces.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Compiler.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\DemoEntities.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\TestProvider.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Mvc.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\EntityFramework.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Newtonsoft.Json.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Helpers.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Razor.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.Tracing.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Web.Http.OData.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Data.Edm.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\Microsoft.Data.OData.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\System.Spatial.xml
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\de\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\es\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\fr\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\it\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ja\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ko\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\ru\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\obj\Debug\ApiServer.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\obj\Debug\DemoApiServer.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\DemoApiServer\obj\Debug\DemoApiServer.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\DemoApiServer.dll.config
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\DemoApiServer.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\DemoApiServer.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Antlr3.Runtime.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Compiler.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Entities.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\EntityFramework.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\EntityFramework.SqlServer.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.Data.Edm.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.Data.OData.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Newtonsoft.Json.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Owin.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Net.Http.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Net.Http.WebRequest.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Spatial.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Helpers.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.OData.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.Tracing.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Mvc.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Optimization.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Providers.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Razor.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\TestProvider.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\WebGrease.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\nunit.core.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\nunit.core.interfaces.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Compiler.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Entities.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\TestProvider.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\EntityFramework.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\EntityFramework.SqlServer.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Newtonsoft.Json.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Helpers.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Mvc.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Razor.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.Tracing.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Web.Http.OData.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.Data.Edm.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\Microsoft.Data.OData.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\System.Spatial.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\de\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\es\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\fr\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\it\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ja\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ko\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\ru\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\obj\Debug\ApiServer.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\obj\Debug\DemoApiServer.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\ApiServer\obj\Debug\DemoApiServer.pdb

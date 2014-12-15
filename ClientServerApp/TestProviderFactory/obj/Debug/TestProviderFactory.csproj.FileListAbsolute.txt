@@ -1,0 +1,41 @@
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\TestProvider.Factory.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\NSubstitute.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit-console-runner.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit-gui-runner.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.core.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.framework.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.uiexception.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.util.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\nunit.uikit.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\bin\Debug\NSubstitute.xml
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\obj\Debug\TestProviderFactory.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\obj\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\DemoServer\TestProviderFactory\obj\Debug\TestProvider.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\TestProviderFactory\bin\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\TestProviderFactory\bin\Debug\TestProvider.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\TestProviderFactory\obj\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\DemoServer\TestProviderFactory\obj\Debug\TestProvider.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\TestProvider.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\NSubstitute.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit-console-runner.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit-gui-runner.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.core.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.framework.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.uiexception.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.util.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Web.Http.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\nunit.uikit.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\NSubstitute.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Web.Http.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\obj\Debug\TestProvider.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\TestProviderFactory\obj\Debug\TestProvider.Factory.pdb

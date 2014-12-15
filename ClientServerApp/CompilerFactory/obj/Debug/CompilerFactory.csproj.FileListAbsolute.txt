@@ -1,0 +1,21 @@
+C:\Users\Eldin\documents\visual studio 2013\Projects\CompilerFactory\CompilerFactory\bin\Debug\Compiler.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\CompilerFactory\CompilerFactory\bin\Debug\Compiler.Factory.pdb
+C:\Users\Eldin\documents\visual studio 2013\Projects\CompilerFactory\CompilerFactory\obj\Debug\CompilerFactory.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\documents\visual studio 2013\Projects\CompilerFactory\CompilerFactory\obj\Debug\Compiler.Factory.dll
+C:\Users\Eldin\documents\visual studio 2013\Projects\CompilerFactory\CompilerFactory\obj\Debug\Compiler.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\CompilerFactory\CompilerFactory\bin\Debug\Compiler.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\CompilerFactory\CompilerFactory\bin\Debug\Compiler.Factory.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\CompilerFactory\CompilerFactory\obj\Debug\Compiler.Factory.dll
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\ClientServerApp\CompilerFactory\CompilerFactory\obj\Debug\Compiler.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\Compiler.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\Compiler.Factory.pdb
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Web.Http.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Web.Http.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\obj\Debug\Compiler.Factory.dll
+C:\Users\Eldin\Desktop\Eldin Dalavai - Sr Net Architect\Code\ClientServerApp\CompilerFactory\obj\Debug\Compiler.Factory.pdb
